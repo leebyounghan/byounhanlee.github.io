@@ -17,8 +17,7 @@ Ph.D. candidate in the Department of Artificial Intelligence at Ajou University,
 - **Explainable AI**: Creating transparent and interpretable AI systems for critical applications
 - **AI Safety in NLP**: Ensuring safe deployment of language models in real-world scenarios
 
-## Current Research
-I am actively working on several research projects funded by the National Research Foundation of Korea:
+## Research Projects
 - Robust Machine Learning for Low-Quality and Heterogeneous Text Data Environments
 - Understanding and Mitigating Societal Biases Embedded in Large Language Models  
 - Safe and Explainable AI Systems for Content Safety and Moderation
@@ -29,4 +28,4 @@ I am actively working on several research projects funded by the National Resear
 - **2023**: Paper published at EACL 2023 (Findings)
 
 ## Background
-Before focusing on AI research, I completed dual degrees in Sociology and Applied Artificial Intelligence, which provides me with a unique interdisciplinary perspective on the societal implications of AI technologies.
+Completed dual degrees in Sociology and Applied Artificial Intelligence at Ajou University, providing a unique interdisciplinary perspective on the societal implications of AI technologies.
