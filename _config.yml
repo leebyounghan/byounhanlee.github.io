@@ -22,14 +22,14 @@ repository               : "leebyounghan/leebyounghan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profileimage.jpg"
+  name             : "Byounghan Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : #""
+  location         : "Suwon, Korea"
+  employer         : "Ajou University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "qudgks96@ajou.ac.kr" 
 
   # Academic websites
   academia         : # URL
