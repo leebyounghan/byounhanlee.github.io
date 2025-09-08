@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. candidate in the Department of Artificial Intelligence at Ajou University, advised by Prof. Kyung-Ah Sohn. Research focuses on building robust and safe AI systems, with particular emphasis on Natural Language Processing, AI Safety, and Medical AI applications.
+Ph.D. candidate in Artificial Intelligence specializing in Natural Language Processing. Research focuses on investigating and mitigating the effects of various biases within AI systems, with particular emphasis on detecting and reducing bias in Large Language Model-based applications. Current research interests include examining the impact of societal biases on medical diagnosis in healthcare AI systems.
 
 ## Research Interests
 - **Robust AI**: Developing AI systems that perform reliably across diverse and challenging environments
