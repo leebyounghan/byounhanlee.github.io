@@ -1,14 +1,14 @@
 ---
-title: "Efficient Privacy-Preserving Chatbot Learning through Prefix-Learning Based Federated Learning"
+title: "Disaster Detection Using Text Anomaly Detection in SNS"
 collection: publications
 category: conferences
-permalink: /publication/2023-12-15-cisc-federated-learning
-excerpt: 'A novel federated learning approach for privacy-preserving chatbot training using prefix-learning techniques to reduce communication costs while maintaining performance.'
-date: 2023-12-15
-venue: 'Conference on Information Security and Cryptography-Winter (CISC-W 2023)'
-citation: 'Kyungju Choi, Byounghan Lee, Kyung-Ah Sohn. (2023). &quot;Efficient Privacy-Preserving Chatbot Learning through Prefix-Learning Based Federated Learning.&quot; <i>Conference on Information Security and Cryptography-Winter (CISC-W 2023)</i>, Seoul, South Korea.'
+permalink: /publication/2022-06-01-kingpc-disaster-detection
+excerpt: 'A text anomaly detection approach for identifying disaster-related events from social media posts, enabling early warning and rapid response systems.'
+date: 2022-06-01
+venue: 'Korea Next Generation Computing Conference (KINGPC)'
+citation: 'Byounghan Lee, Kyung-Ah Sohn. (2022). &quot;Disaster Detection Using Text Anomaly Detection in SNS.&quot; <i>Korea Next Generation Computing Conference (KINGPC)</i>, South Korea.'
 ---
 
-This paper proposes an efficient privacy-preserving approach for chatbot training using prefix-learning based federated learning. Our method significantly reduces communication overhead while maintaining strong privacy guarantees and model performance.
+This paper presents a novel approach for disaster detection in social media using text anomaly detection techniques. Our method can identify disaster-related events from SNS posts in real-time, enabling early warning systems and rapid response coordination.
 
-The proposed framework combines the advantages of federated learning for privacy preservation with prefix-learning techniques for efficient parameter updates. By training only a small subset of parameters (prefixes) locally and aggregating them federally, we achieve significant reductions in communication costs while preserving the privacy of sensitive conversational data. Comprehensive evaluations demonstrate the effectiveness of our approach across multiple chatbot benchmarks.
+The proposed framework leverages text anomaly detection to identify unusual patterns in social media content that may indicate disaster events. By analyzing the linguistic and semantic features of social media posts, our system can detect emerging disasters and provide early warnings to emergency response teams. Experimental results demonstrate the effectiveness of our approach in identifying various types of disasters from social media streams.
