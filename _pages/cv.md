@@ -9,56 +9,69 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[Download CV (PDF)](/files/cv.pdf)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Ph.D. in Artificial Intelligence** | 2022 - Present  
+Department of Artificial Intelligence, Ajou University, Suwon, South Korea  
+- Integrated M.S./Ph.D. Program
+- Advisor: Prof. Kyung-Ah Sohn
+- GPA: 4.05/4.5
+- Research Focus: Robust AI, Multi-Agent Systems, Bias Mitigation, Explainable AI
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**B.A. in Sociology** | 2018 - 2022  
+College of Social Sciences, Ajou University, Suwon, South Korea  
+- GPA: 3.8/4.5
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**B.S. in Applied Artificial Intelligence (Dual-Degree)** | 2018 - 2022  
+Department of Applied Artificial Intelligence, Ajou University, Suwon, South Korea
+
+## Research Experience
+
+**Robust Machine Learning for Low-Quality and Heterogeneous Text Data** | 2022 - Present  
+*National Research Foundation of Korea*
+- Published at EACL 2023
+- Focus: Robust AI systems for challenging text environments
+
+**Understanding and Mitigating Societal Biases in Large Language Models** | 2023 - Present  
+*National Research Foundation of Korea*
+- Upcoming publication at MLHC 2025
+- Focus: Bias detection and mitigation in LLMs
+
+**Safe and Explainable AI Systems for Content Safety** | 2022 - 2024  
+*National Research Foundation of Korea*
+- Published at COLING 2022
+- Focus: AI Safety in NLP applications
+
+## Teaching Experience
+
+**Teaching Assistant - Machine Learning** | Spring 2024, Spring 2025  
+Department of Artificial Intelligence, Ajou University
+- Designed and graded ML programming assignments
+- Led tutorials on machine learning algorithms and implementation
+
+**Teaching Assistant - Web System Project** | Fall 2024  
+Department of Artificial Intelligence, Ajou University
+- Supervised web development projects and provided technical guidance
+
+**Teaching Assistant - Machine Learning Fundamentals** | 2022 - 2023 (4 semesters)  
+Department of Applied Artificial Intelligence, Ajou University
+- Developed programming assignments and coached students in AI problem-solving
+
+## Skills
+
+**Machine Learning & Data Science**  
+PyTorch, HuggingFace, vLLM, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
+
+**Programming & Development**  
+Python, R, Shell Scripting, Git, Docker, Linux, OpenAI API, REST API
+
+**Languages**  
+Korean (Native), English (Proficient)
+
+## Awards and Honors
+- **Grand Prize**, MZ AI Hackathon: Medical Q&A System Construction (2021)
+- **Grand Prize**, AJOU Valley Festa ONtact, Ajou University (2021)  
+- **Excellence Award**, SoftCon Competition, Ajou University (2021)
+- **Outstanding Research Presentation**, AI Graduate School Symposium (2023, 2025)
