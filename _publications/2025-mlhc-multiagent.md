@@ -1,8 +1,9 @@
 ---
 title: "Evaluation of Multi-Agent LLMs in Multidisciplinary Team Decision-Making for Challenging Cancer Cases"
 collection: publications
-permalink: /publication/2025-mlhc-multiagent
-excerpt: 'This paper evaluates the effectiveness of multi-agent large language models...'
+category: manuscripts
+permalink: /publication/2025-01-01-mlhc-multiagent
+excerpt: 'This paper evaluates the effectiveness of multi-agent large language models in collaborative medical decision-making for complex cancer cases, investigating how AI agents can simulate multidisciplinary team dynamics.'
 date: 2025-01-01
 venue: 'Machine Learning for Healthcare (MLHC)'
 paperurl: '#'
@@ -13,7 +14,7 @@ This paper investigates the effectiveness of multi-agent large language model sy
 
 **Research Contributions:**
 - Novel framework for multi-agent LLM collaboration in medical decision-making
-- Comprehensive evaluation on challenging cancer case datasets
+- Comprehensive evaluation on challenging cancer case datasets  
 - Analysis of agent interaction patterns and decision quality
 - Insights into AI-assisted multidisciplinary medical consultations
 
