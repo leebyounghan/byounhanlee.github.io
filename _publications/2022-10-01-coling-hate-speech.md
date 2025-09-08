@@ -1,7 +1,7 @@
 ---
 title: "Why Is It Hate Speech? Masked Rationale Prediction for Explainable Hate Speech Detection"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2022-10-01-coling-hate-speech
 excerpt: 'An explainable AI approach for hate speech detection using masked rationale prediction to improve both bias mitigation and model interpretability.'
 date: 2022-10-01
