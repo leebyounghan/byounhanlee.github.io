@@ -17,12 +17,10 @@ redirect_from:
 Department of Artificial Intelligence, Ajou University, Suwon, South Korea  
 - Integrated M.S./Ph.D. Program
 - Advisor: Prof. Kyung-Ah Sohn
-- GPA: 4.05/4.5
 - Research Focus: Robust AI, Multi-Agent Systems, Bias Mitigation, Explainable AI
 
 **B.A. in Sociology** | 2018 - 2022  
 College of Social Sciences, Ajou University, Suwon, South Korea  
-- GPA: 3.8/4.5
 
 **B.S. in Applied Artificial Intelligence (Dual-Degree)** | 2018 - 2022  
 Department of Applied Artificial Intelligence, Ajou University, Suwon, South Korea
@@ -35,12 +33,10 @@ Department of Applied Artificial Intelligence, Ajou University, Suwon, South Kor
 - Focus: Robust AI systems for challenging text environments
 
 **Understanding and Mitigating Societal Biases in Large Language Models** | 2023 - Present  
-*National Research Foundation of Korea*
 - Upcoming publication at MLHC 2025
 - Focus: Bias detection and mitigation in LLMs
 
 **Safe and Explainable AI Systems for Content Safety** | 2022 - 2024  
-*National Research Foundation of Korea*
 - Published at COLING 2022
 - Focus: AI Safety in NLP applications
 
