@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV (PDF)](/files/cv.pdf)
+[Download CV (PDF)](/files/byoughanlee_cv.pdf)
 
 ## Education
 
